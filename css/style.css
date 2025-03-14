@@ -120,9 +120,14 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
-.contacts {
+.team-item {
+  background-color: #fff;
+}
+
+.team-suptitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -149,6 +154,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-suptitle {
@@ -176,10 +182,10 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: #4d5ae5;
 }
 
 .footer-text {
@@ -191,5 +197,5 @@ button {
 }
 
 .footer-logo-accent {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
